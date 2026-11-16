@@ -88,3 +88,6 @@ t ::= x | c | f(t1, ..., tn)
 | ∃ falso | recorre todo 𝒟 | comprobación completa |
 
 La interfaz anima ese recorrido. Se puede reproducir, avanzar paso a paso y hacer clic en cada instancia para ver su subárbol.
+
+Bugs conocidos: (a arreglar si se puede hacer más tarde)
+1. Al ingresar un elemento utilizando los botones (en el juego) como por ejemplo Enemigo(objetivo), no se reemplaza en los tutoriales, se agrega a la derecha, arreglar eso
